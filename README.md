@@ -1,6 +1,4 @@
 # Bem vindo ao meu perfil
-#Passei aqui para teste meu aprendizado 
-
 
 Olá eu sou o Luis Gustavo, aluno do curso Staart
 
