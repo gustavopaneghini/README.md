@@ -19,11 +19,11 @@ Moro na cidade de Londrina, Paraná
 - Estrutura de Dados
 - Git e GitHub
 - Fundamentos do Javascript
+- Banco de Dados
+- Fundamentos do Node.js
 
 ## Continuidade dos estudos:
 
-- Banco de Dados
-- Fundamentos do Node.js
 - Construindo e consumindo API REST com Node.js
 - Autenticação e Autorização com Node.js
 - Deploy da Aplicação em Node.js
